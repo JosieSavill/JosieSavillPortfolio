@@ -37,6 +37,50 @@ body {
     font-size: 50px;
 }
 
+
+main {
+    display: flex;
+    flex: wrap;
+    margin-top: 2%;
+}
+
+
+.work-horiseon {
+    flex: 1 0 200px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.work-pleiades {
+    flex: 1 0 200px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.work-beagz-cal {
+    flex: 1 0 200px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.work-gem {
+    flex: 1 0 200px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.work-campeones {
+    flex: 1 0 200px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+
 .portfolio {
     margin-left: 20px;
     padding: 20px;
@@ -143,6 +187,9 @@ p {
 
 
 .aside-contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     margin-right: 0;
     padding: 20px;
     clear: both;
@@ -186,3 +233,10 @@ p {
     text-align: center;
     font-size: 25px;
 }
+
+
+/* add link to Horiseon website on Github for both README and when you click on photo */
+/* complete README */
+/*condense CSS files*/
+/* add flexbox and wrapping for different resolutions, ask tutor monday */
+/* add hover and pseudo values to nav links and photos */
