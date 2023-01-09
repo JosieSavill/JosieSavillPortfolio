@@ -33,4 +33,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 <!-- Screenshot of your screenshot -->
 <!-- Link to the deployed application -->
 
-https://github.com/JosieSavill/Newest-Project-1-Folder.git 
+https://josiesavill.github.io/Newest-Project-1-Folder/ 
