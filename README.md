@@ -2,35 +2,55 @@
 
 ## User Story
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
-
-
-## Acceptance Criteria
-
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵  🌵
 
 <!-- Description of your application -->
-<!-- Screenshot of your screenshot -->
+
+This application is a place where I can introduce myself and my latest projects to potential employers, contacts.
+
+
+
+## Criteria 
+<!-- Criteria for Success -->
+
+When my portfolio loads my name, a recent photo, links to my latest projects and various types of links to contact me are presented in clear manner.
+
+Links in navigation bar redirect the user to the desired section.
+
+The image of the latest project is larger than the other images in the portfolio.
+
+When the images are selected, the deployed application opens.
+
+When the site is viewed on varying devices then the user is presented with a responsive layout adapting to various viewports.
+
+Links to the applications and images are provided below for reference.
+
+
+
+## Links
 <!-- Link to the deployed application -->
 
 https://josiesavill.github.io/Newest-Project-1-Folder/ 
+
+
+## Images
+<!-- images -->
+
+assets\images\Horiseon.jpg
+
+assets\images\pleiades.jpg
+
+assets\images\BeagzCal.jpg
+
+assets\images\gem.jpg
+
+assets\images\campeones.jpg
+
+assets\images\profile.jpg
+
+<!-- profile pic -->
+assets\images\profile.jpg
+
+<!-- add resume link  -->
+
+
